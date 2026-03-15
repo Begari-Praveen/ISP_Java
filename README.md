@@ -14,7 +14,7 @@ It is built as a console application and uses **JDBC** to talk to the MySQL data
 
 ---
 
-## 🧠 What Is an ISP?
+## What Is an ISP?
 
 An **ISP (Internet Service Provider)** is a company that gives people and businesses access to the internet.
 
@@ -35,7 +35,7 @@ To manage thousands of customers, these companies use software called an **ISP M
 
 ---
 
-## 🧩 What an ISP Management System Does
+##  What an ISP Management System Does
 
 This system helps companies manage:
 
@@ -49,7 +49,7 @@ It keeps everything organized so the company can see who is using what service, 
 
 ---
 
-## ✅ Project Features
+##  Project Features
 
 ### Customer Management
 
@@ -128,7 +128,7 @@ Admin can see payment history.
 
 ---
 
-## 🗂️ Database Design (MySQL)
+##  Database Design (MySQL)
 
 Tables:
 
@@ -142,7 +142,7 @@ Use the file `database.sql` to create the database and tables.
 
 ---
 
-## 🧱 Project Folder Structure
+## Project Folder Structure
 
 ```
 ISP-Management-System
@@ -219,7 +219,7 @@ java -cp out main.Main
 
 ---
 
-## 🌟 Example Output
+##  Example Output
 
 When running `Main`, you will see menus like:
 
@@ -242,7 +242,7 @@ Customer added successfully.
 
 ---
 
-## 📌 What This Project Shows on a Resume
+##  What This Project Shows on a Resume
 
 - Java programming
 - Object-oriented design
@@ -252,7 +252,7 @@ Customer added successfully.
 
 ---
 
-## 🧩 Extra Features You Can Add (Advanced)
+##  Extra Features You Can Add (Advanced)
 
 - Admin login (username/password)
 - Search customers by name
