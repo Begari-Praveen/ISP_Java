@@ -173,7 +173,7 @@ ISP-Management-System
 
 ---
 
-## 🛠️ How to Run (Windows)
+##  How to Run (Windows)
 
 ### 1) Install MySQL
 
@@ -206,7 +206,7 @@ java -cp out main.Main
 
 ---
 
-## 🧭 Workflow (What Happens Step by Step)
+##  Workflow (What Happens Step by Step)
 
 1. Admin creates internet plans (Basic / Standard / Premium).
 2. Customer registers with name, phone, email.
